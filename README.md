@@ -1,3 +1,3 @@
-# progra
+# prograa
 mi primer respositorio
 hola
